@@ -1,0 +1,117 @@
+body {
+    background-image: url(img/fundo.jpg);
+    background-size: cover;
+    overflow-y: hidden;
+    text-align: center;
+    text-decoration-color: black;
+}
+
+.img {
+    border-radius: 25px;
+    border: 2px solid purple;
+    margin-right: 120px;
+    margin-bottom: -79px;
+}
+
+#nome {
+    color: purple;
+    text-align: center;
+    width: 10px;
+    margin-left: 638px;
+    margin-bottom: -10px;
+}
+
+#dev {
+    font-size: 10px;
+    padding-left: 95px;
+    padding-top: -10px;
+}
+
+
+
+#text {
+    color: purple;
+    position: relative;
+    top: 70px;
+    font-size: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+#icone1 {
+    color: rgb(216, 224, 231);
+    font-size: 80px;
+    position: relative;
+    top: 30px;
+}
+
+#icone2 {
+    color: rgb(216, 224, 231);
+    font-size: 80px;
+    position: relative;
+    top: 30px;
+}
+
+#icone3 {
+    color: rgb(216, 224, 231);
+    font-size: 80px;
+    position: relative;
+    top: 30px;
+}
+
+#button1 {
+    background-color: rgb(3, 164, 212);
+    border: 5px solid purple;
+    border-radius: 15px;
+    padding-top: 35px;
+    padding-bottom: 100px;
+    padding-left: 80px;
+    padding-right: 80px;
+    position: relative;
+    left: -290px;
+    bottom: -100px;
+    cursor: pointer;
+}
+
+#button2 {
+    background-color: rgb(3, 164, 212);
+    border: 5px solid purple;
+    border-radius: 15px;
+    padding-top: 35px;
+    padding-bottom: 100px;
+    padding-left: 80px;
+    padding-right: 80px;
+    position: relative;
+    bottom: 125px;
+    cursor: pointer;
+}
+
+#button3 {
+    background-color: rgb(3, 164, 212);
+    border: 5px solid purple;
+    border-radius: 15px;
+    padding-top: 35px;
+    padding-bottom: 100px;
+    padding-left: 80px;
+    padding-right: 80px;
+    position: relative;
+    left: 290px;
+    bottom: 350px;
+    cursor: pointer;
+}
+
+#voltar {
+    color: purple;
+    background-color: rgb(3, 164, 212);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 4px solid purple;
+    border-radius: 105px;
+    margin-right: 600px;
+    margin-left: 640px;;
+    font-size: 20px;
+    position: relative;
+    bottom: 890px;
+    right: 640px;
+    cursor: pointer;
+}

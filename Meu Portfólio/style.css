@@ -1,0 +1,142 @@
+body {
+    background-image: url(img/fundo.jpg);
+    background-size: cover;
+    text-align: center;
+    text-decoration-color: rgb(20, 20, 20);
+}
+
+.titulo {
+    height: 60px;
+    width: 280px;
+    margin-left: 0px;
+    margin-right: 0px;
+    position: relative;
+    left: 560px;
+    top: 40px;
+}
+
+.img {
+    border-radius: 25px;
+    border: 2px solid rgb(20, 20, 20);
+    position: relative;
+    right: 104px;
+}
+
+#nome {
+    text-align: center;
+    margin: auto;
+    width: 10px;
+    position: relative;
+    right: 71px;
+    bottom: 55px;
+}
+
+#dev {
+    font-size: 10px;
+    margin: auto; 
+    width: 152px;
+    text-align: center;
+    position: relative;
+    bottom: 88px;
+}
+
+.button {
+    position: relative;
+    right: 175px;
+}
+
+#button1:hover {
+    color: rgb(209, 214, 219);
+    transition: 0.5s;
+    border-color: rgb(209, 214, 219);
+}
+
+#button2:hover {
+    color: rgb(209, 214, 219);
+    transition: 0.5s;
+    border-color: rgb(209, 214, 219);
+}
+
+#button3:hover {
+    color: rgb(209, 214, 219);
+    transition: 0.5s;
+    border-color: rgb(209, 214, 219);
+}
+
+#button1 {
+    background-color: rgb(35, 36, 37);
+    border: 2px solid rgb(20, 20, 20);
+    border-radius: 15px;
+    cursor: pointer;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 60px;
+    padding-right: 60px;
+    position: relative;
+    top: 150px;
+    left: 664px;
+}
+
+#button2 {
+    background-color: rgb(35, 36, 37);
+    border: 2px solid rgb(20, 20, 20);
+    border-radius: 15px;
+    cursor: pointer;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 70px;
+    padding-right: 70px;
+    position: relative;
+    top: 150px;
+    left: 155px;
+}
+
+#button3 {
+    background-color: rgb(35, 36, 37);
+    border: 2px solid rgb(20, 20, 20);
+    border-radius: 15px;
+    cursor: pointer;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 68px;
+    padding-right: 68px;
+    position: relative;
+    top: 150px;
+    right: 350px;
+}
+
+#icone1 {
+    text-decoration-color: black;
+    font-size: 80px;
+}
+
+#text1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    position: relative;
+    top: 20px;
+}
+
+#icone2 {
+    text-decoration-color: black;
+    font-size: 80px;
+}
+
+#text2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    position: relative;
+    top: 20px;
+}
+
+#icone3 {
+    text-decoration-color: black;
+    font-size: 80px;
+}
+
+#text3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    position: relative;
+    top: 20px;
+}

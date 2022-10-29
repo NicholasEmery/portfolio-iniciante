@@ -1,0 +1,82 @@
+body {
+    background-image: url(img/fundo.jpg);
+    background-size: cover;
+    text-align: center;
+    text-decoration-color: rgb(255, 255, 255);
+}
+
+.titulo {
+    position: fixed;
+    position: relative;
+    bottom: 20px;
+    left: 0px;
+}
+
+.img {
+    border-radius: 25px;
+    border: 2px solid rgb(20, 20, 20);
+    position: relative;
+    right: 104px;
+    top: 58px;
+}
+
+#nome {
+    text-align: center;
+    margin: auto;
+    width: 10px;
+    position: relative;
+    right: 71px;
+}
+
+#dev {
+    font-size: 10px;
+    margin: auto; 
+    width: 152px;
+    text-align: center;
+    position: relative;
+    bottom: 33px;
+}
+
+.box {
+    background-color: rgb(35, 36, 37);
+    border: 2px solid rgb(20, 20, 20);
+    border-radius: 15px;
+    margin-left: 400px;
+    margin-right: 400px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 100px;
+}
+
+.texto {
+    text-decoration-color: white;
+    text-align: left;
+    font-size: 18px;
+    overflow-y: hidden;
+    position: relative;
+    left: 15px;
+}
+
+#box_return {
+    background-color: rgb(35, 36, 37);
+    border: 2px solid rgb(20, 20, 20);
+    border-radius: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    cursor: pointer;
+    position: relative;
+    bottom: 125px;
+    right: 655px;
+}
+
+#box_return:hover {
+    color: rgb(209, 214, 219);
+    border: 2px solid rgb(209, 214, 219);
+    transition: 1.0s;
+}
+
+#iconeX {
+    font-size: 30px;
+}
